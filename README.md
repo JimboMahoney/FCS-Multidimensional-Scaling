@@ -1,5 +1,6 @@
 # FCS-Multidimensional-Scaling
-Plots the MDS (Multi-dimensional scaling) of 3 or more FCS files. Useful for comparing the overall similarity / difference between multidimensional FCS files (e.g. those with many parameters).
+Plots the MDS (Multi-dimensional scaling) of 3 or more FCS files. <br><br>
+Useful for comparing the overall similarity / difference between multidimensional FCS files (e.g. those with many parameters).
 
 ### Description
 
